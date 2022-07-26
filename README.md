@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio-thayna
+# Repositório do Desafio de Projeto sobre Git/Github da DIO. 
 Meu primeiro repositório - Desafio de Projeto - Dio. 
