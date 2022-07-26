@@ -1,0 +1,18 @@
+# Anotações
+
+## Comandos Git - CMD
+
+dir - diretório de pastas
+cd - navegar nas pastas
+cls - limpa a tela 
+tab - completa automaticamente 
+mkdir - cria pasta
+
+echo - reproduz o que for escrito antes
+rmdir - limpa diretório
+
+## GIT e criando um commit 
+
+git init - inicia um repositório
+-a - mostra os arquivos ocultos
+git add. - passa os arquivos para o Git Hub. 
